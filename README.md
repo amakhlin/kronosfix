@@ -5,9 +5,9 @@ A collection of helper scripts to make kronos timekeeping a little more usable
 ## Adding Project Descriptions
 If you have more than a couple of project codes in your timesheet this might be useful:
 
-* Put this file on your desktop, open it and edit the table at the top to reflect your own projects
+* Put [this file]() on your desktop, open it and edit the table at the top to reflect your own projects
 
-* Go to (Bookmarklet Maker)[https://caiorss.github.io/bookmarklet-maker/]
+* Go to [Bookmarklet Maker](https://caiorss.github.io/bookmarklet-maker/)
 
   - Paste the contents of the edited file into the `Code` window
   - Hit `Generate Bookmarklet`
@@ -21,5 +21,5 @@ If you have more than a couple of project codes in your timesheet this might be 
 * Navigate to you timesheet then click the new bookmark to add descriptions to project codes
 
 ## Copying previous period's projects to current time period
-* Add the contents of this file to another bookmark, call it `Copy Kronos Codes from Last period`
+* Add the contents of [this file]() to another bookmark, call it `Copy Kronos Codes from Last period`
 * Navigate to the new blank `Current Pay Period` page in Kronos and click the bookmark to copy previous period's project codes to the current period
