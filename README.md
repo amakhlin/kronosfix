@@ -6,7 +6,7 @@ A bookmarklet to make kronos timekeeping a little more usable
 If you have more than a couple of project codes in your timesheet this might be useful:
 
 ### Installing 
-* Drag [this link](kronofix) to bookmarks
+* Drag [this link](https://raw.githubusercontent.com/amakhlin/kronosfix/main/kronofix) to bookmarks bar in Chrome
 
 ### Usage
 * Navigate to `Current Pay Period` page in Kronos and click the bookmark to open the user interface
